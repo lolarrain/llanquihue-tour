@@ -43,7 +43,7 @@ Verifica que el archivo tours.txt se encuentre en la carpeta resources.
 
 Ejecuta el archivo Main.java desde el paquete app.
 
-Repositorio GitHub: [] Fecha de entrega: [15/06/2026]
+Repositorio GitHub: [https://github.com/lolarrain/llanquihue-tour] Fecha de entrega: [15/06/2026]
 
 
 
