@@ -1,4 +1,4 @@
-package ui;
+package app;
 
 import data.GestorDatos;
 import model.Tour;
