@@ -1,0 +1,6 @@
+Ruta de los Saltos;Naturaleza;35000;8
+Sabores de Puerto Varas;Gastronómico;28000;5
+Navegación por el Lago;Aventura;42000;6
+Cervecerías del Sur;Gastronómico;30000;4
+Senderos del Volcán;Naturaleza;38000;7
+Patrimonio de Frutillar;Cultural;25000;4
